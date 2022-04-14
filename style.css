@@ -1,0 +1,47 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    background-color:rgb(138, 238, 226);
+    color:blueviolet;
+    font-weight:bold;
+    font-size:30px;
+  }
+  .heading_div
+  {
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float:none;
+    padding:40px;
+  }
+  .heading_div2
+  {
+    font-size: 30px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  .copy_right_footer {
+    text-align:center;
+    bottom:0;
+    background-color:#7b7575;
+    color:white;
+    width:100%;
+    line-height:4;
+    font-size:15px;
+    position:fixed;
+  }
+  .result_para_tag {
+    background-color:#c191e8;
+    font-size:20px;
+    color:rgb(37, 57, 94);
+    font-weight:bold;
+    border-style:solid;
+    border-color:#8632ca;
+    border-width:3px;
+  }
